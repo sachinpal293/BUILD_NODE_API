@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c8f0e750-d66-47ba-b8f9-b2ad8e4a58d0",
+    "title": "The Avengers Updates",
+    "year": "2020",
+    "genre": "Action , Adventure, Fantasy",
+    "rating": "7.9"
+  },
+  {
+    "id": "213976be-9157-4daa-992b-5b93f68540a6",
+    "title": "The wolf of wall street",
+    "year": "2013",
+    "genre": "Biography comdey crime",
+    "rating": "8.2"
+  },
+  {
+    "id": "9017c8f4-3406-474a-a528-bac9da1675d8",
+    "title": "Avatar 2",
+    "year": "2020",
+    "genre": "Action , Adventure, Fantasy",
+    "rating": "7.9"
+  },
+  {
+    "title": "3 idots",
+    "year": "2013",
+    "genre": "Biography comdey ",
+    "rating": "8.2",
+    "id": "b3bd85a2-f28a-449e-a4bf-745bbe0f0b8a"
+  },
+  {
+    "id": "d3128477-d3d7-4b11-87a2-db53ecf84846",
+    "title": "Family main",
+    "year": "2022",
+    "genre": " Action comdey ",
+    "rating": "8.2"
+  }
+]
