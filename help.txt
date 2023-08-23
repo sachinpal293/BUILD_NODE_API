@@ -1,6 +1,4 @@
 This file is help to user to know how to use thi project
 
-To Get Data use => /api/products
-To filtering => /api/products/<name> or <comapany> or <price>
-To get page limit => /api/products/limit=<number of limits>
-default limit of itmes in a page is 10
+To Get Data use => /api/movies
+us can perfom crud operation 
